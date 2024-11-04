@@ -1,0 +1,23 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:j.0="http://xmlns.com/foaf/0.1/">
+  <rdf:Description rdf:about="https://www.instagram.com/vicentijevic_i/">
+    <vcard:TEL>071-750-250</vcard:TEL>
+    <j.0:knows>
+      <rdf:Description rdf:about="https://www.instagram.com/olgicaupcheva/">
+        <j.0:interest>Semantic Web</j.0:interest>
+        <j.0:gender>Female</j.0:gender>
+        <j.0:based_near>Skopje,Macedonia</j.0:based_near>
+        <vcard:FN>Olgica Upcheva</vcard:FN>
+        <j.0:birthday>2002-02-21</j.0:birthday>
+        <vcard:TEL>078-510-520</vcard:TEL>
+        <vcard:EMAIL>olgica.upcheva@students.finki.ukim.mk</vcard:EMAIL>
+        <rdfs:comment>This is my profile</rdfs:comment>
+        <rdfs:label>Olgica</rdfs:label>
+      </rdf:Description>
+    </j.0:knows>
+    <rdfs:label>Friend</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>
